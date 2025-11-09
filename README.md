@@ -1,3 +1,4 @@
+````markdown
 # st_game_engine
 
 A small C++/CMake playground for building a simple game-style app on top of **raylib**.
@@ -40,3 +41,70 @@ st_game_engine/
         ├── MenuView.h / .cpp
         ├── OptionsView.h / .cpp
         └── GameView.h / .cpp
+````
+
+## Build
+
+Requirements:
+
+* CMake
+* C++17 compiler
+* raylib (installed as a system library)
+
+Example on Ubuntu:
+
+```bash
+sudo apt install cmake g++ libraylib-dev
+```
+
+Build:
+
+```bash
+mkdir -p build
+cd build
+cmake ..
+make
+./st_game_engine
+```
+
+## Config
+
+`config.ini` (in repo root):
+
+```ini
+window_width=1280
+window_height=720
+window_title=st_game_engine
+```
+
+If the file is missing, defaults are used.
+
+## Controls
+
+**Menu:**
+
+* ↑ / ↓ – navigate
+* Enter – select
+
+**Options:**
+
+* ↑ / ↓ – select entry
+* ← / → – change value (fullscreen)
+* Enter on “Back” – return to menu
+
+**Game:**
+
+* Mouse – look
+* W A S D – move
+* Space / Left Ctrl – up / down
+* Shift – faster
+* ESC – back to menu
+
+**Debug:**
+
+* `~` (grave) – show/hide debug overlay
+
+## License
+
+MIT
+````

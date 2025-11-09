@@ -69,7 +69,7 @@ make
 
 ## Config
 
-`config.ini` (in repo root):
+Create `config.ini` in the repo root:
 
 ```ini
 window_width=1280
@@ -107,4 +107,6 @@ If the file is missing, defaults are used.
 ## License
 
 MIT
-````
+
+```
+```

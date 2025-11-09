@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/home/arkadiusz-suracki/projects/st_game_engine/build",
+  "command": "/usr/bin/c++  -I/home/arkadiusz-suracki/projects/st_game_engine/src -I/home/arkadiusz-suracki/projects/st_game_engine/resources -g -std=gnu++17 -o CMakeFiles/st_game_engine.dir/main.cpp.o -c /home/arkadiusz-suracki/projects/st_game_engine/main.cpp",
+  "file": "/home/arkadiusz-suracki/projects/st_game_engine/main.cpp",
+  "output": "CMakeFiles/st_game_engine.dir/main.cpp.o"
+},
+{
+  "directory": "/home/arkadiusz-suracki/projects/st_game_engine/build",
+  "command": "/usr/bin/c++  -I/home/arkadiusz-suracki/projects/st_game_engine/src -I/home/arkadiusz-suracki/projects/st_game_engine/resources -g -std=gnu++17 -o CMakeFiles/st_game_engine.dir/src/core/App.cpp.o -c /home/arkadiusz-suracki/projects/st_game_engine/src/core/App.cpp",
+  "file": "/home/arkadiusz-suracki/projects/st_game_engine/src/core/App.cpp",
+  "output": "CMakeFiles/st_game_engine.dir/src/core/App.cpp.o"
+},
+{
+  "directory": "/home/arkadiusz-suracki/projects/st_game_engine/build",
+  "command": "/usr/bin/c++  -I/home/arkadiusz-suracki/projects/st_game_engine/src -I/home/arkadiusz-suracki/projects/st_game_engine/resources -g -std=gnu++17 -o CMakeFiles/st_game_engine.dir/src/core/Config.cpp.o -c /home/arkadiusz-suracki/projects/st_game_engine/src/core/Config.cpp",
+  "file": "/home/arkadiusz-suracki/projects/st_game_engine/src/core/Config.cpp",
+  "output": "CMakeFiles/st_game_engine.dir/src/core/Config.cpp.o"
+},
+{
+  "directory": "/home/arkadiusz-suracki/projects/st_game_engine/build",
+  "command": "/usr/bin/c++  -I/home/arkadiusz-suracki/projects/st_game_engine/src -I/home/arkadiusz-suracki/projects/st_game_engine/resources -g -std=gnu++17 -o CMakeFiles/st_game_engine.dir/src/core/ResourceManager.cpp.o -c /home/arkadiusz-suracki/projects/st_game_engine/src/core/ResourceManager.cpp",
+  "file": "/home/arkadiusz-suracki/projects/st_game_engine/src/core/ResourceManager.cpp",
+  "output": "CMakeFiles/st_game_engine.dir/src/core/ResourceManager.cpp.o"
+},
+{
+  "directory": "/home/arkadiusz-suracki/projects/st_game_engine/build",
+  "command": "/usr/bin/c++  -I/home/arkadiusz-suracki/projects/st_game_engine/src -I/home/arkadiusz-suracki/projects/st_game_engine/resources -g -std=gnu++17 -o CMakeFiles/st_game_engine.dir/src/core/DebugOverlay.cpp.o -c /home/arkadiusz-suracki/projects/st_game_engine/src/core/DebugOverlay.cpp",
+  "file": "/home/arkadiusz-suracki/projects/st_game_engine/src/core/DebugOverlay.cpp",
+  "output": "CMakeFiles/st_game_engine.dir/src/core/DebugOverlay.cpp.o"
+},
+{
+  "directory": "/home/arkadiusz-suracki/projects/st_game_engine/build",
+  "command": "/usr/bin/c++  -I/home/arkadiusz-suracki/projects/st_game_engine/src -I/home/arkadiusz-suracki/projects/st_game_engine/resources -g -std=gnu++17 -o CMakeFiles/st_game_engine.dir/src/controllers/MenuController.cpp.o -c /home/arkadiusz-suracki/projects/st_game_engine/src/controllers/MenuController.cpp",
+  "file": "/home/arkadiusz-suracki/projects/st_game_engine/src/controllers/MenuController.cpp",
+  "output": "CMakeFiles/st_game_engine.dir/src/controllers/MenuController.cpp.o"
+},
+{
+  "directory": "/home/arkadiusz-suracki/projects/st_game_engine/build",
+  "command": "/usr/bin/c++  -I/home/arkadiusz-suracki/projects/st_game_engine/src -I/home/arkadiusz-suracki/projects/st_game_engine/resources -g -std=gnu++17 -o CMakeFiles/st_game_engine.dir/src/controllers/OptionsController.cpp.o -c /home/arkadiusz-suracki/projects/st_game_engine/src/controllers/OptionsController.cpp",
+  "file": "/home/arkadiusz-suracki/projects/st_game_engine/src/controllers/OptionsController.cpp",
+  "output": "CMakeFiles/st_game_engine.dir/src/controllers/OptionsController.cpp.o"
+},
+{
+  "directory": "/home/arkadiusz-suracki/projects/st_game_engine/build",
+  "command": "/usr/bin/c++  -I/home/arkadiusz-suracki/projects/st_game_engine/src -I/home/arkadiusz-suracki/projects/st_game_engine/resources -g -std=gnu++17 -o CMakeFiles/st_game_engine.dir/src/controllers/GameController.cpp.o -c /home/arkadiusz-suracki/projects/st_game_engine/src/controllers/GameController.cpp",
+  "file": "/home/arkadiusz-suracki/projects/st_game_engine/src/controllers/GameController.cpp",
+  "output": "CMakeFiles/st_game_engine.dir/src/controllers/GameController.cpp.o"
+},
+{
+  "directory": "/home/arkadiusz-suracki/projects/st_game_engine/build",
+  "command": "/usr/bin/c++  -I/home/arkadiusz-suracki/projects/st_game_engine/src -I/home/arkadiusz-suracki/projects/st_game_engine/resources -g -std=gnu++17 -o CMakeFiles/st_game_engine.dir/src/views/MenuView.cpp.o -c /home/arkadiusz-suracki/projects/st_game_engine/src/views/MenuView.cpp",
+  "file": "/home/arkadiusz-suracki/projects/st_game_engine/src/views/MenuView.cpp",
+  "output": "CMakeFiles/st_game_engine.dir/src/views/MenuView.cpp.o"
+},
+{
+  "directory": "/home/arkadiusz-suracki/projects/st_game_engine/build",
+  "command": "/usr/bin/c++  -I/home/arkadiusz-suracki/projects/st_game_engine/src -I/home/arkadiusz-suracki/projects/st_game_engine/resources -g -std=gnu++17 -o CMakeFiles/st_game_engine.dir/src/views/OptionsView.cpp.o -c /home/arkadiusz-suracki/projects/st_game_engine/src/views/OptionsView.cpp",
+  "file": "/home/arkadiusz-suracki/projects/st_game_engine/src/views/OptionsView.cpp",
+  "output": "CMakeFiles/st_game_engine.dir/src/views/OptionsView.cpp.o"
+},
+{
+  "directory": "/home/arkadiusz-suracki/projects/st_game_engine/build",
+  "command": "/usr/bin/c++  -I/home/arkadiusz-suracki/projects/st_game_engine/src -I/home/arkadiusz-suracki/projects/st_game_engine/resources -g -std=gnu++17 -o CMakeFiles/st_game_engine.dir/src/views/GameView.cpp.o -c /home/arkadiusz-suracki/projects/st_game_engine/src/views/GameView.cpp",
+  "file": "/home/arkadiusz-suracki/projects/st_game_engine/src/views/GameView.cpp",
+  "output": "CMakeFiles/st_game_engine.dir/src/views/GameView.cpp.o"
+}
+]
